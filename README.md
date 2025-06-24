@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm **Anupam**, a passionate Computer Science student at **IIIT Kota**(Indian Institute Of Information Technology Kota) (2nd Year, CSE).  <br><br>- 💻 I love working with **Data Structures & Algorithms (DSA)**  <br>- 🌐 Skilled in **Full Stack Web Development**  <br>- 🔍 Currently diving deep into **Competitive Programming (CP)**  <br>- 🧠 Always curious and open to learning new tech and solving challenging problems  <br>
+Hi there! I'm **Anupam**, a passionate Computer Science student at **IIIT Kota**(Indian Institute Of Information and Technology Kota) (2nd Year, CSE).  <br><br>- 💻 I love working with **Data Structures & Algorithms (DSA)**  <br>- 🌐 Skilled in **Full Stack Web Development**  <br>- 🔍 Currently diving deep into **Competitive Programming (CP)**  <br>- 🧠 Always curious and open to learning new tech and solving challenging problems  <br>
 
 
 ## 🌐 Socials:
